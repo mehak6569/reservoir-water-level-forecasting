@@ -26,4 +26,8 @@ Root Mean Square Error (RMSE), R<sup>2</sup>, Mean Absolute Percentage Error (MA
 - Feature toggle options like with/without weather data
 - Scalable design to add new reservoir forecasting
 
+Click play to watch the demo video below:
+
+https://drive.google.com/file/d/1sTAAyVX3CmPLgNGGhuxafODhc-3nX2Ki/view?usp=sharing
+
 
