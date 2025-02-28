@@ -18,7 +18,7 @@
 ### Background
 WRI’s updated Aqueduct Water Risk Atlas finds that 17 countries, which are home to a quarter of the world’s population, face “extremely high” water stress. India ranks 13th for overall water stress and has more than three times the population of the other 17 extremely highly stressed countries combined. India’s water challenges extend beyond current events in Chennai. Last year, the National Institution for Transforming India (NITI Aayog), a government research agency, declared that the country is “suffering from the worst water crisis in its history, and millions of lives and livelihoods are under threat.
 
-<img src="img/water-condition.png" alt="Aqueduct Report" style="max-width: 50%; height: auto;">
+<img src="img/water-condition.png" alt="Aqueduct Report" style="max-width: 30%; height: auto;">
 
 Cities in the Global South face unreliable, inadequate, and polluted supply of freshwater. About 1 billion people do not have access to safe and continuous (24/7) water supply. These cities show that vast segments of the urban population in the global south lack access to safe, reliable and affordable water. On average, almost half of all households in the studied cities lacked still lack access to piped utility water. 
 
@@ -29,7 +29,7 @@ The city could follow Cape Town to become the first Indian city to run out of wa
 
 **Cauvery reservoirs** *(Harangi, Hemavathi, KRS, Kabini)*, which are major source of water for Bengaluru, are already under extremely high water risk  category, indicating drought like situation,  as per the data collected from World Resources Institute Aqueduct tool. 
 
-<img src="img/cauvery-basin.png" alt="Cauvery basin" style="max-width: 50%; height: auto;">
+<img src="img/cauvery-basin.png" alt="Cauvery basin" style="max-width: 40%; height: auto;">
 
 Forecasting water availability accurately is challenging, due to uncertain hydro-meteorological  and other factors of Cauvery river basin.
 
