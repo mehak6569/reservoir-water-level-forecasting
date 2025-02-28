@@ -13,21 +13,38 @@ Rapidly growing urban populations and increased competition for water across sec
 ## Solution
 A multi-stacking ensemble based multi-variate time series analysis model using machine learning, deep learning and statistical procedures like Support Vector Regressor(SVR), XGBoost, Facebook Neural Prophet, Long Short Term Memory(LSTM) and Seasonal Auto Regressive Integrated Moving Averages (SARIMA) with near real time reservoir water level data, and associated hydro-meteorological data like rainfall, temperature etc. for better and accurate temporal water level forecasting.
 
+## Data
+The dataset is obtained from the official WRI website and India WRIS datasets. It includes the geospatial data of four cauvery river basin reservoirs Hemavathi, Harangi, Kabini and KRS.  
+| Dataset Source | Dataset Name | Date Range               | Original Row Count | Missing Rows | Final Date Range      | Final Row Count |
+|---------------|-------------|-------------------------|--------------------|--------------|----------------------|----------------|
+| WRI           | Harangi     | 30-09-2010 to 16-12-2020 | 3321               | 332          | 01-01-2011 to 31-12-2020 | 3653           |
+| WRI           | Hemavathi   | 30-09-2010 to 16-12-2020 | 3314               | 339          | 01-01-2011 to 31-12-2020 | 3653           |
+| WRI           | KRS         | 30-09-2010 to 16-12-2020 | 3313               | 340          | 01-01-2011 to 31-12-2020 | 3653           |
+| WRI           | Kabini      | 30-09-2010 to 16-12-2020 | 3314               | 339          | 01-01-2011 to 31-12-2020 | 3653           |
+
+
 ## Model Characteristics
 Multi-level Stacked Ensemble of - SVR, XGBoost, FB Neural Prophet, LSTM, and SARIMA
 
 ## Evaluation Metrics
 Root Mean Square Error (RMSE), R<sup>2</sup>, Mean Absolute Percentage Error (MAPE)
 
+## Model Performance
+
+## Final Design of the Project
+Here are some screenshots of the final design of the project.
+<img src="img/dash1.png" alt="Dashboard1" style="max-width: 80%; height: auto;">
+<img src="img/dash2.png" alt="Dashboard2" style="max-width: 80%; height: auto;">
+<img src="img/dash3.png" alt="Dashboard3" style="max-width: 80%; height: auto;">
+
 ## Dashboard Features
+Demo video of the dashboard can be found [here](https://drive.google.com/file/d/1sTAAyVX3CmPLgNGGhuxafODhc-3nX2Ki/view?usp=sharing)
 - Reservoir wise water forecasting
 - Collective water forecasting
 - Algorithm wise water forecasting
 - Feature toggle options like with/without weather data
 - Scalable design to add new reservoir forecasting
 
-Click play to watch the demo video below:
 
-https://drive.google.com/file/d/1sTAAyVX3CmPLgNGGhuxafODhc-3nX2Ki/view?usp=sharing
 
 
