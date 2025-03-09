@@ -66,8 +66,6 @@ The dataset is obtained from the official WRI website and India WRIS datasets. I
 ## Evaluation Metrics
 Root Mean Square Error (RMSE), R<sup>2</sup>, Mean Absolute Percentage Error (MAPE)
 
-## Model Performance
-
 ## Final Design of the Project
 Here are some screenshots of the final design of the project.
 <img src="img/dash1.png" alt="Dashboard1" style="max-width: 80%; height: auto;">
